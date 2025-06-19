@@ -1,7 +1,7 @@
-# PeRL: Permutation-Enhanced Reinforcement Learning  
+# [PeRL: Permutation-Enhanced Reinforcement Learning](https://arxiv.org/abs/2506.14907)
 *Interleaved Vision–Language Reasoning with 7B-parameter Models*
 
-**Authors:** Yizhen Zhang*, Yang Ding, Shuoshuo Zhang*, Xinchen Zhang, Haoling Li, Zhong-Zhi Li, Peijie Wang, Jie Wu, Lei Ji†, Yelong Shen, Yujiu Yang†, Yeyun Gong
+**Authors:** Yizhen Zhang*, Yang Ding*, Shuoshuo Zhang*, Xinchen Zhang, Haoling Li, Zhong-Zhi Li, Peijie Wang, Jie Wu, Lei Ji†, Yelong Shen, Yujiu Yang†, Yeyun Gong
 
 *Equal contribution  †Corresponding authors
 
@@ -82,11 +82,14 @@ PeRL demonstrates superior reasoning capabilities in complex multi-image scenari
 ## 📝 Citation
 
 ```bibtex
-@article{zhang2025perl,
-  title   = {PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision–Language Reasoning},
-  author  = {Zhang, Yizhen and Ding, Yang and Zhang, Shuoshuo and Zhang, Xinchen and Li, Haoling and Li, Zhong-Zhi and Wang, Peijie and Wu, Jie and Ji, Lei and Shen, Yelong and Yang, Yujiu and Gong, Yeyun},
-  journal = {arXiv preprint arXiv:2506.xxxxx},
-  year    = {2025}
+@misc{zhang2025perlpermutationenhancedreinforcementlearning,
+      title={PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning}, 
+      author={Yizhen Zhang and Yang Ding and Shuoshuo Zhang and Xinchen Zhang and Haoling Li and Zhong-zhi Li and Peijie Wang and Jie Wu and Lei Ji and Yelong Shen and Yujiu Yang and Yeyun Gong},
+      year={2025},
+      eprint={2506.14907},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.14907}, 
 }
 ```
 
