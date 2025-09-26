@@ -10,7 +10,8 @@
 **Project Page:** [https://github.com/alchemistyzz/PeRL](https://github.com/alchemistyzz/PeRL)
 
 ## 🔥 News
-- [2025/09/19] PeRL is accepted by NeurIPS 2025.
+- [2025/09/25] We release the training code for PeRL.
+- [2025/09/19] [PeRL](https://neurips.cc/virtual/2025/poster/116647) is accepted by NeurIPS 2025.
 
 ## 🎯 Overview
 
