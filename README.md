@@ -9,6 +9,9 @@
 
 **Project Page:** [https://github.com/alchemistyzz/PeRL](https://github.com/alchemistyzz/PeRL)
 
+## 🔥 News
+- [2025/09/19] PeRL is accepted by NeurIPS 2025.
+
 ## 🎯 Overview
 
 Inspired by the impressive reasoning capabilities demonstrated by reinforcement learning approaches like DeepSeek-R1, **PeRL** addresses a critical limitation in current multimodal reinforcement learning: while existing approaches excel at spatial reasoning within single-image contexts, they struggle with **positional reasoning** across multiple images—a capability essential for real-world applications.
