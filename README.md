@@ -1,4 +1,6 @@
 # [PeRL: Permutation-Enhanced Reinforcement Learning](https://arxiv.org/abs/2506.14907)
+
+<a href='https://arxiv.org/abs/2506.14907'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://huggingface.co/IIGroup/Qwen-PeRL-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
 *Interleaved Vision–Language Reasoning with 7B-parameter Models*
 
 **Authors:** Yizhen Zhang*, Yang Ding*, Shuoshuo Zhang*, Xinchen Zhang, Haoling Li, Zhong-Zhi Li, Peijie Wang, Jie Wu, Lei Ji†, Yelong Shen, Yujiu Yang†, Yeyun Gong
@@ -10,7 +12,7 @@
 **Project Page:** [https://github.com/alchemistyzz/PeRL](https://github.com/alchemistyzz/PeRL)
 
 ## 🔥 News
-- [2025/09/25] We release the training code for PeRL.
+- [2025/09/25] We release the training code and model.
 - [2025/09/19] [PeRL](https://neurips.cc/virtual/2025/poster/116647) is accepted by NeurIPS 2025.
 
 ## 🎯 Overview
@@ -82,6 +84,18 @@ PeRL demonstrates superior reasoning capabilities in complex multi-image scenari
 3. **Effective rollout filtering** mechanism that improves exploitation without requiring additional supervision
 4. **Comprehensive evaluation** demonstrating consistent improvements across diverse reasoning tasks
 
+## Installation
+```shell
+git clone https://github.com/alchemistyzz/PeRL
+conda create -n PeRL python=3.11 -y
+conda activate PeRL
+# veRL
+pip3 install -e . 
+# flash-attn
+pip3 install flash-attn --no-build-isolation
+```
+## Training
+Run `scripts/train.sh` to train Qwen2.5-VL model.
 
 ## 📝 Citation
 
