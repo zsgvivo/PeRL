@@ -1,6 +1,8 @@
 # [PeRL: Permutation-Enhanced Reinforcement Learning](https://arxiv.org/abs/2506.14907)
 
-<a href='https://arxiv.org/abs/2506.14907'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://huggingface.co/IIGroup/Qwen-PeRL-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
+<a href='https://arxiv.org/abs/2506.14907'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
+<a href='https://huggingface.co/IIGroup/Qwen-PeRL-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
+
 *Interleaved Vision–Language Reasoning with 7B-parameter Models*
 
 **Authors:** Yizhen Zhang*, Yang Ding*, Shuoshuo Zhang*, Xinchen Zhang, Haoling Li, Zhong-Zhi Li, Peijie Wang, Jie Wu, Lei Ji†, Yelong Shen, Yujiu Yang†, Yeyun Gong
