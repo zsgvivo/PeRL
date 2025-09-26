@@ -26,7 +26,7 @@ from dataclasses import dataclass, field
 from enum import Enum
 from pprint import pprint
 from typing import Dict, Type
-from verl.utils.image_aug import augment_batch, swap_image_in_batch
+from verl.utils.image_aug import swap_image_in_batch
 import numpy as np
 import ray
 import torch
